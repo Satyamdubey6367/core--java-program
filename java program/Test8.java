@@ -1,0 +1,9 @@
+class Test9
+{
+	public static void main(String[] args) 
+	{
+		String x="Hello India";
+		char ch=x.charAt(6);
+		System.out.println("Extracted character is:"+ch);
+	}
+}

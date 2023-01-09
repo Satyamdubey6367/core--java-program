@@ -1,0 +1,14 @@
+class Satya27
+{
+	public static void main(String[] args) 
+	{
+		Sample.access();
+	}
+}
+		class Sample
+		{
+			public static void access()
+			{
+				System.out.println("it is a Static method..");
+	}
+}

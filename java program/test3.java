@@ -1,0 +1,11 @@
+class Text3 
+{
+	public static void main(String[] args) 
+	{
+		float a=15.29;
+		float b=15.29f;
+		float c=15.25F;
+		float d=(float)15.25;
+		System.out.println(+a","+b+","+c+","+d);
+	}
+}

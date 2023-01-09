@@ -1,0 +1,9 @@
+class Test7 
+{
+	public static void main(String[] args) 
+	{
+		String x="india";
+		char ch=x.charAt(2);
+		System.out.println(x);
+	}
+}

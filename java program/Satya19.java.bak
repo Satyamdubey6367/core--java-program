@@ -1,0 +1,26 @@
+class Satya19 
+{
+	public static void main(String[] args) 
+	{
+		int a=23;
+		int  b=29;
+		int c=12;
+		int big=0;
+		if(a>b)
+		{
+			if(a>c)
+				big=a;
+			else
+				big=c;
+		}
+		else
+		{
+			if(b>c)
+				big=b;
+			else
+				big=c;
+		}
+
+		System.out.println("tha big number is:"+big);
+	}
+}
